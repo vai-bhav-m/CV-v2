@@ -57,6 +57,10 @@ hr {
   width: 15%;
 }
 
+.gen-link {
+  margin: 0;
+}
+
 .intro {
   width: 30%;
   text-align: center;
@@ -67,6 +71,7 @@ hr {
   width: 40%;
   margin: 40px auto 60px;
 }
+
 .ai-img {
   width: 25%;
   float: left;
